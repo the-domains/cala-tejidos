@@ -1,4 +1,3 @@
-layout_spectrum: 0.06813931721262634
 typography_spectrum: 0.45949501008726656
 color:
   brandStrength: 0.5858491780236363
@@ -11,5 +10,7 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+layout_spectrum: 0.06813931721262634
 name: Cala tejidos
 title: "Cala\_"
+description: textiles hechos a mano
